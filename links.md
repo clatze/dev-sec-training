@@ -5,3 +5,5 @@
 [BSI Empfehlungen zu Verschlüsselungsverfahren und Schlüssellängen](https://www.bsi.bund.de/DE/Publikationen/TechnischeRichtlinien/tr02102/index_htm.html)
 
 [web page on recommended key lengths](https://www.keylength.com/)
+
+[NIST crypto recommendations](https://csrc.nist.gov/publications/detail/sp/800-175b/final)
