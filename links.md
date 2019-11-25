@@ -3,3 +3,5 @@
 [OWASP Juice Shop](https://www2.owasp.org/www-project-juice-shop/)
 
 [BSI Empfehlungen zu Verschlüsselungsverfahren und Schlüssellängen](https://www.bsi.bund.de/DE/Publikationen/TechnischeRichtlinien/tr02102/index_htm.html)
+
+[web page on recommended key lengths](https://www.keylength.com/)
