@@ -13,4 +13,5 @@
 # Training
 
 [OWASP trainings at Udemy](https://www.udemy.com/topic/owasp/)
+
 [ISM Vorlesung Burkhard Messer, HTW Berlin](http://wi.f4.htw-berlin.de/users/messer/LV/WI-ISM-WS19/index.html) - da sind Slides und Videos auch der aktuellen Vorlesung online, welche generelle Grundlagen ganz gut erklären
