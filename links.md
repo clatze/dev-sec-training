@@ -2,6 +2,8 @@
 
 [Blog entry: How to process a password as Software Dev](https://dev.to/nathilia_pierce/how-to-process-passwords-as-a-software-developer-3dkh)
 
+[OWASP Top 10](https://owasp.org/www-project-top-ten/)
+
 [OWASP Juice Shop](https://www2.owasp.org/www-project-juice-shop/)
 
 [BSI Empfehlungen zu Verschlüsselungsverfahren und Schlüssellängen](https://www.bsi.bund.de/DE/Publikationen/TechnischeRichtlinien/tr02102/index_htm.html)
