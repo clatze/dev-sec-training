@@ -17,3 +17,9 @@
 [OWASP trainings at Udemy](https://www.udemy.com/topic/owasp/)
 
 [ISM Vorlesung Burkhard Messer, HTW Berlin](http://wi.f4.htw-berlin.de/users/messer/LV/WI-ISM-WS19/index.html) - da sind Slides und Videos auch der aktuellen Vorlesung online, welche generelle Grundlagen ganz gut erklären
+
+# Books
+
+## Introduction to IT Security
+
+[Norbert Pohlmann - Cyber-Sicherheit: Das Lehrbuch für Konzepte, Prinzipien, Mechanismen, Architekturen und Eigenschaften von Cyber-Sicherheitsthemen in der Digitalisierung](https://www.amazon.de/gp/product/3658253975/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1)
