@@ -20,6 +20,20 @@
 
 [Cryptool 2](https://www.cryptool.org/en/cryptool2) - an E-Learning software for Windows systems to learn about cryptography and cryptoanalysis
 
+## Pentest Training
+
+Disclaimer: Those are recommendations from dontpanic group, I never tested them myself (so far)
+
+[Penetration Testing with Kali Linux | Offensive Security](https://www.offensive-security.com/pwk-oscp/)
+
+[Penetration Testing Lab](https://lab.pentestit.ru/)
+
+[Vulnerability By Design ~ VulnHub](https://www.vulnhub.com/)
+
+[Hackuing-Lab Cyber Range by Compass Security](https://www.compass-security.com/de/produkte/hacking-lab/)
+
+[Over The Wire - Wargames](https://overthewire.org/wargames/)
+
 # Books
 
 ## Introduction to IT Security
