@@ -12,6 +12,8 @@
 
 [NIST crypto recommendations](https://csrc.nist.gov/publications/detail/sp/800-175b/final)
 
+[ETSI on Crypto Suites](https://www.etsi.org/deliver/etsi_ts/119300_119399/119312/01.01.01_60/ts_119312v010101p.pdf)
+
 # Training
 
 [OWASP trainings at Udemy](https://www.udemy.com/topic/owasp/)
