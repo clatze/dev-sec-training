@@ -41,3 +41,9 @@ Disclaimer: Those are recommendations from dontpanic group, I never tested them 
 ## Introduction to IT Security
 
 [Norbert Pohlmann - Cyber-Sicherheit: Das Lehrbuch für Konzepte, Prinzipien, Mechanismen, Architekturen und Eigenschaften von Cyber-Sicherheitsthemen in der Digitalisierung](https://www.amazon.de/gp/product/3658253975/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1)
+
+# Not quite relevant for Devs, but still interesting
+
+## ISMS
+
+[Webinar "Einblick in die Implementierung eines ISMS nach ISO27001](https://www.usd.de/cst-academy/webinar-aufzeichnungen/)
