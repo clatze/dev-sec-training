@@ -14,7 +14,7 @@
 
 [ETSI on Crypto Suites](https://www.etsi.org/deliver/etsi_ts/119300_119399/119312/01.01.01_60/ts_119312v010101p.pdf)
 
-Heise Online Artikel Serie über Kubernetes Security von Thomas Fricke [Teil 1](https://www.heise.de/hintergrund/Kubernetes-Security-Teil-1-Von-Linux-geerbte-Konzepte-4703935.html) [Teil 2] (https://www-heise-de.cdn.ampproject.org/c/s/www.heise.de/amp/hintergrund/Kubernetes-Security-Teil-2-Container-Rechte-verwalten-mit-PodSecurityPolicies-4718711.html) [Teil 3] (https://www.heise.de/hintergrund/Kubernetes-Security-Teil-3-Im-Spannungsfeld-von-Komplexitaet-und-Sicherheit-4862263.html)
+Heise Online Artikel Serie über Kubernetes Security von Thomas Fricke [Teil 1](https://www.heise.de/hintergrund/Kubernetes-Security-Teil-1-Von-Linux-geerbte-Konzepte-4703935.html) [Teil 2](https://www-heise-de.cdn.ampproject.org/c/s/www.heise.de/amp/hintergrund/Kubernetes-Security-Teil-2-Container-Rechte-verwalten-mit-PodSecurityPolicies-4718711.html) [Teil 3](https://www.heise.de/hintergrund/Kubernetes-Security-Teil-3-Im-Spannungsfeld-von-Komplexitaet-und-Sicherheit-4862263.html)
 
 # Training
 
