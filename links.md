@@ -16,6 +16,16 @@
 
 Heise Online Artikel Serie über Kubernetes Security von Thomas Fricke [Teil 1](https://www.heise.de/hintergrund/Kubernetes-Security-Teil-1-Von-Linux-geerbte-Konzepte-4703935.html) [Teil 2](https://www-heise-de.cdn.ampproject.org/c/s/www.heise.de/amp/hintergrund/Kubernetes-Security-Teil-2-Container-Rechte-verwalten-mit-PodSecurityPolicies-4718711.html) [Teil 3](https://www.heise.de/hintergrund/Kubernetes-Security-Teil-3-Im-Spannungsfeld-von-Komplexitaet-und-Sicherheit-4862263.html)
 
+[Sensibilisierung für Datenschutz und Transparenz](http://www.thinkdata.ch/de/willkommen)
+
+[Docker Security Best Practices from the Dockerfile](https://cloudberry.engineering/article/dockerfile-security-best-practices/)
+
+[Adversial ML Threat Matrix](https://github.com/mitre/advmlthreatmatrix) based on [MITRA ATT&CK Framework](https://attack.mitre.org/)
+
+[Cloud beim Bund](https://www.bk.admin.ch/bk/de/home/digitale-transformation-ikt-lenkung/bundesarchitektur/cloud.html)
+
+[Mackenzie Jackson - Exploiting Secrets, BlackAlps 22](https://youtu.be/mB3MU1beCWk)
+
 # Training
 
 [OWASP trainings at Udemy](https://www.udemy.com/topic/owasp/)
@@ -40,9 +50,11 @@ Disclaimer: Those are recommendations from dontpanic group, I never tested them 
 
 # Books
 
-## Introduction to IT Security
+## Introduction to IT Security & Crypto
 
 [Norbert Pohlmann - Cyber-Sicherheit: Das Lehrbuch für Konzepte, Prinzipien, Mechanismen, Architekturen und Eigenschaften von Cyber-Sicherheitsthemen in der Digitalisierung](https://www.amazon.de/gp/product/3658253975/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1)
+
+[Simon Singh - Geheime Botschaften](https://www.amazon.de/Geheime-Botschaften-Verschl%C3%BCsselung-Antike-Internet/dp/3423330716/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=10APLH06LTYC4&dchild=1&keywords=simon+singh+geheime+botschaften&qid=1588324221&sprefix=Simon+Singh%2Caps%2C178&sr=8-1)
 
 # Not quite relevant for Devs, but still interesting
 
