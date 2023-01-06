@@ -30,8 +30,8 @@ Heise Online Artikel Serie über Kubernetes Security von Thomas Fricke [Teil 1](
 
 [OWASP trainings at Udemy](https://www.udemy.com/topic/owasp/)
 
-[comment] :[ISM Vorlesung Burkhard Messer, HTW Berlin](http://wi.f4.htw-berlin.de/users/messer/LV/WI-ISM-WS19/index.html) - da sind Slides und Videos auch der aktuellen Vorlesung online, welche generelle Grundlagen ganz gut erklären
-[comment]: Link not valid anymore
+<!-- [ISM Vorlesung Burkhard Messer, HTW Berlin](http://wi.f4.htw-berlin.de/users/messer/LV/WI-ISM-WS19/index.html) - da sind Slides und Videos auch der aktuellen Vorlesung online, welche generelle Grundlagen ganz gut erklären
+ Link not valid anymore -->
 
 [Cryptool 2](https://www.cryptool.org/en/cryptool2) - an E-Learning software for Windows systems to learn about cryptography and cryptoanalysis
 
