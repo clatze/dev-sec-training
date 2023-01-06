@@ -34,6 +34,8 @@ Heise Online Artikel Serie über Kubernetes Security von Thomas Fricke [Teil 1](
 
 [Cryptool 2](https://www.cryptool.org/en/cryptool2) - an E-Learning software for Windows systems to learn about cryptography and cryptoanalysis
 
+[Vulnerable Code Snippets](https://github.com/yeswehack/vulnerable-code-snippets)
+
 ## Pentest Training
 
 Disclaimer: Those are recommendations from dontpanic group, I never tested them myself (so far)
