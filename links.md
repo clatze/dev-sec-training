@@ -26,6 +26,8 @@ Heise Online Artikel Serie über Kubernetes Security von Thomas Fricke [Teil 1](
 
 [Mackenzie Jackson - Exploiting Secrets, BlackAlps 22](https://youtu.be/mB3MU1beCWk)
 
+[Check NTLM Signing](https://isc.sans.edu/diary/rss/29456)
+
 # Training
 
 [OWASP trainings at Udemy](https://www.udemy.com/topic/owasp/)
