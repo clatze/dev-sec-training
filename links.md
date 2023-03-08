@@ -28,6 +28,8 @@ Heise Online Artikel Serie über Kubernetes Security von Thomas Fricke [Teil 1](
 
 [Check NTLM Signing](https://isc.sans.edu/diary/rss/29456)
 
+[BSI IT Grundschutzkompendium 2023](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/IT-Grundschutz-Kompendium/it-grundschutz-kompendium_node.html)
+
 # Training
 
 [OWASP trainings at Udemy](https://www.udemy.com/topic/owasp/)
