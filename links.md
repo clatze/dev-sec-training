@@ -41,6 +41,8 @@ Heise Online Artikel Serie über Kubernetes Security von Thomas Fricke [Teil 1](
 
 [Vulnerable Code Snippets](https://github.com/yeswehack/vulnerable-code-snippets)
 
+[Schulung BSI Grundschutz](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/Zertifizierte-Informationssicherheit/IT-Grundschutzschulung/it-grundschutzschulung_node.html)
+
 ## Pentest Training
 
 Disclaimer: Those are recommendations from dontpanic group, I never tested them myself (so far)
