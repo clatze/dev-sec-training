@@ -4,7 +4,7 @@
 
 [OWASP Top 10](https://owasp.org/www-project-top-ten/)
 
-[OWASP Juice Shop](https://www2.owasp.org/www-project-juice-shop/)
+[OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
 
 [BSI Empfehlungen zu Verschlüsselungsverfahren und Schlüssellängen](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/Technische-Richtlinien/TR-nach-Thema-sortiert/tr02102/tr02102_node.html)
 
