@@ -74,3 +74,4 @@ Disclaimer: Those are recommendations from dontpanic group, I never tested them 
 ## ISMS
 
 [Webinar "Einblick in die Implementierung eines ISMS nach ISO27001](https://www.usd.de/cst-academy/webinar-aufzeichnungen/)
+[How to Apply MITRE ATTACK to Your Org](https://thehackernews.com/2023/07/how-to-apply-mitre-att-to-your.html)
