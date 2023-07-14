@@ -47,6 +47,8 @@ Heise Online Artikel Serie über Kubernetes Security von Thomas Fricke [Teil 1](
 
 [Schulung BSI Grundschutz](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/Zertifizierte-Informationssicherheit/IT-Grundschutzschulung/it-grundschutzschulung_node.html)
 
+[Deep Dive MacOS Pentesting Part 1](https://www.cyberark.com/resources/threat-research-blog/a-deep-dive-into-penetration-testing-of-macos-applications-part-1)
+
 ## Pentest Training
 
 Disclaimer: Those are recommendations from dontpanic group, I never tested them myself (so far)
