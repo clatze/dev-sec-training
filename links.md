@@ -67,6 +67,8 @@ Disclaimer: Those are recommendations from dontpanic group, I never tested them 
 
 [Over The Wire - Wargames](https://overthewire.org/wargames/)
 
+[Hacking Trainings](https://www.welivesecurity.com/en/secure-coding/capture-flag-5-websites-sharpen-hacking-skills/)
+
 # Books
 
 ## Introduction to IT Security & Crypto
