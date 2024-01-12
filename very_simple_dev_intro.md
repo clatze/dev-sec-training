@@ -1,4 +1,4 @@
-Dieses Intro bildet niemanden zum Programmierer aus. Es ist als Einführung in die Programmierung und Softwareentwicklung informatikaffine Nicht-Informatiker gedacht.
+Dieses Intro bildet niemanden zum Programmierer aus. Es ist als Einführung in die Programmierung und Softwareentwicklung für informatikaffine Nicht-Informatiker gedacht.
 
 # Konzepte
 
