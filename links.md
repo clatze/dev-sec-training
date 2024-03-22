@@ -38,6 +38,8 @@ Heise Online Artikel Serie über Kubernetes Security von Thomas Fricke [Teil 1](
 
 [BSI Instagram Channel](https://www.instagram.com/bsi_bund/)
 
+[Understanding and Responding to Distributed Denial-Of-Service Attacks](https://www.cisa.gov/resources-tools/resources/understanding-and-responding-distributed-denial-service-attacks)
+
 # Training
 
 [OWASP trainings at Udemy](https://www.udemy.com/topic/owasp/)
