@@ -42,6 +42,8 @@ Heise Online Artikel Serie über Kubernetes Security von Thomas Fricke [Teil 1](
 
 [CISA Cyber Hygiene](https://www.cisa.gov/audiences/high-risk-communities/projectupskill)
 
+[API Security](https://github.com/arainho/awesome-api-security)
+
 # Training
 
 [OWASP trainings at Udemy](https://www.udemy.com/topic/owasp/)
