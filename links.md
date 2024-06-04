@@ -75,6 +75,8 @@ Disclaimer: Those are recommendations from dontpanic group, I never tested them 
 
 [Hacking Trainings](https://www.welivesecurity.com/en/secure-coding/capture-flag-5-websites-sharpen-hacking-skills/)
 
+[Locating S3 buckets](https://hackread.com/in-the-jungle-of-aws-s3-enumeration/)
+
 # Books
 
 ## Introduction to IT Security & Crypto
