@@ -44,6 +44,8 @@ Heise Online Artikel Serie über Kubernetes Security von Thomas Fricke [Teil 1](
 
 [API Security](https://github.com/arainho/awesome-api-security)
 
+[Crypto Attacks Explained](https://research.checkpoint.com/2024/modern-cryptographic-attacks-a-guide-for-the-perplexed/)
+
 # Training
 
 [OWASP trainings at Udemy](https://www.udemy.com/topic/owasp/)
