@@ -46,6 +46,8 @@ Heise Online Artikel Serie über Kubernetes Security von Thomas Fricke [Teil 1](
 
 [Crypto Attacks Explained](https://research.checkpoint.com/2024/modern-cryptographic-attacks-a-guide-for-the-perplexed/)
 
+[AI assisted BOLA detection](https://unit42.paloaltonetworks.com/automated-bola-detection-and-ai/)
+
 # Training
 
 [OWASP trainings at Udemy](https://www.udemy.com/topic/owasp/)
