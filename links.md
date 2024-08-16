@@ -63,6 +63,8 @@ Heise Online Artikel Serie über Kubernetes Security von Thomas Fricke [Teil 1](
 
 ## Pentest Training
 
+[ChatGPT for Pentesting](https://redfoxsec.com/blog/chatgpt-for-pen-testing-pt-2/)
+
 Disclaimer: Those are recommendations from dontpanic group, I never tested them myself (so far)
 
 [Penetration Testing with Kali Linux | Offensive Security](https://www.offensive-security.com/pwk-oscp/)
