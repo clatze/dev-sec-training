@@ -83,6 +83,8 @@ Disclaimer: Those are recommendations from dontpanic group, I never tested them 
 
 [Locating S3 buckets](https://hackread.com/in-the-jungle-of-aws-s3-enumeration/)
 
+[TLD finder](https://cloud.google.com/blog/topics/threat-intelligence/enumerating-private-tlds/?hl=en)
+
 # Books
 
 ## Introduction to IT Security & Crypto
