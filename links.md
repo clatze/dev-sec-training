@@ -48,6 +48,8 @@ Heise Online Artikel Serie über Kubernetes Security von Thomas Fricke [Teil 1](
 
 [AI assisted BOLA detection](https://unit42.paloaltonetworks.com/automated-bola-detection-and-ai/)
 
+[Dealing with Cross-Site Attacks](https://frederikbraun.de/modern-solutions-xsleaks.html)
+
 # Training
 
 [OWASP trainings at Udemy](https://www.udemy.com/topic/owasp/)
